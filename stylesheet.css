@@ -4,12 +4,14 @@ html{
 	} 
 
 body{
-	height: 150%; 
+	height: 100%; 
 	width: 100%; 
 	background: -webkit-linear-gradient(bottom, #1e5799 0%,#2989d8 35%,#207cca 50%,#7db9e8 100%); 
 	text-align: center;
 	margin: 0; 
-	padding: 0;
+	padding: 0; 
+	min-width: 600px; 
+	max-width: 2000px;
 	}
 h1{ 
 	color: #111; 

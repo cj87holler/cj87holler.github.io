@@ -108,9 +108,7 @@ a{
 	width: 145px; 
 	padding: 20px, 20px, 20px, 20px;
 	} 
-.button: hover{ 
-	background: black; 
-} 
+
 .button{ 
 	font-size: 2em;
 	padding: 23px;
@@ -122,3 +120,7 @@ a{
 	transition: all 0.3s ease-out; 
 	
 }
+
+.button:hover{ 
+	background: #000000; 
+} 
